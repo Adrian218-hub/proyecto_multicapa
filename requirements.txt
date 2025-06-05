@@ -1,10 +1,9 @@
+streamlit
 pandas
 numpy
-streamlit
-matplotlib
-seaborn
 scikit-learn
-xgboost
 tensorflow
+plotly
+seaborn
 scikeras
 
