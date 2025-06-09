@@ -6,4 +6,4 @@ tensorflow
 plotly
 seaborn
 scikeras
-
+python-3.10
